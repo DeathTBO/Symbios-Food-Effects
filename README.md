@@ -1,4 +1,6 @@
-===This is a mirror of the old Symbio's Food Effects Index===
+# Symbio's Food Effects Index
+
+This is a mirror of the old Symbio's Food Effects Index
 
 The original website no longer appears to be active: https://www.symbios-witticism-page.com/herb.htm
 
